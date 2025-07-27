@@ -2,7 +2,7 @@
 Visit site https://clonesite1.netlify.app/
 If the site shows Dangerous Dont worry follow the steps:
 Click Details --> Visit this unsafe site
-the site is tatally safe.
+the site is totally safe.
 Demo Pics
 ![Demo Screenshot1](pic/1.png)
 ![Demo Screenshot1](pic/2.png)
